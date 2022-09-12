@@ -11,7 +11,7 @@ function App() {
         </p>
 				
 				<p>
-					dummyText
+					practice merging confilcts
 				</p>
 		  	<p>
 				{ console.log("Update from osam-test(not sub!)") }
