@@ -13,6 +13,9 @@ function App() {
 				<p>
 					Potato Tomato
 				</p>
+		  	<p>
+				{ console.log("Update from osam-test(not sub!)") }
+		  	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
