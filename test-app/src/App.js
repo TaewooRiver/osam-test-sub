@@ -11,7 +11,7 @@ function App() {
         </p>
 				
 				<p>
-					this paragraph should do something
+					Another edit to see how git pull works.
 				</p>
         <a
           className="App-link"
