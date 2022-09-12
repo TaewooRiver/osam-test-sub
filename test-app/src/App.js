@@ -11,7 +11,7 @@ function App() {
         </p>
 				
 				<p>
-					Another edit to see how git pull works.
+					Potato Tomato
 				</p>
         <a
           className="App-link"
