@@ -11,7 +11,7 @@ function App() {
         </p>
 				
 				<p>
-					Bananas
+				  Bananas and Apples
 				</p>
 		  	<p>
 				{ console.log("Update from osam-test(not sub!)") }
