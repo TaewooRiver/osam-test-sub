@@ -11,7 +11,7 @@ function App() {
         </p>
 				
 				<p>
-					this paragraph does nothing
+					this paragraph should do something
 				</p>
         <a
           className="App-link"
