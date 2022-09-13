@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/osam-test-sub/static/js/main.d95e6838.js",
+    "index.html": "/osam-test-sub/index.html",
+    "main.d95e6838.js.map": "/osam-test-sub/static/js/main.d95e6838.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d95e6838.js"
+  ]
+}
